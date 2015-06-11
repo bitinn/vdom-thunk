@@ -115,6 +115,8 @@ It takes a function that will be evaluated to a virtual element
 It also takes a key which it sets on the returned `VThunk` and
   the comparison function used to do arguments comparison.
 
+For an introduction on **Thunk interface** in general, see
+  [virtual-dom doc](https://github.com/Matt-Esch/virtual-dom/blob/master/docs/thunk.md).
 
 ## Installation
 
